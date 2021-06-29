@@ -1,0 +1,6 @@
+flask
+SQLAlchemy
+marshmallow_sqlalchemy==0.22.3
+marshmallow
+pytest
+requests
