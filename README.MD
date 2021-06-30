@@ -5,7 +5,7 @@
 * [Setup](#setup)         
 
 ## General info
-The idea of this application is to create a sample Flask-based API for a notebook with full support of CRUD methods.
+It's a notebook project based on Flask and API with full support of CRUD methods.
 
 ## Technologies
 Project is created with:
