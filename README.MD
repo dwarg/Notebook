@@ -9,9 +9,8 @@ It's a notebook project based on Flask and API with full support of CRUD methods
 
 ## Technologies
 Project is created with:
-* Python 3.9
-* Flask with SQLAlchemy
-* Flask-Marshmallow
+* Python
+* SQLAlchemy
 * SQLite
 
 ## How to use
